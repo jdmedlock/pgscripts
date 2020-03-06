@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 # usage
-# sudo -u postgres bin/pg_ctl $1 -D $DATADIR
 
 PG_DIR=/Library/PostgreSQL/12/bin
 DATADIR=/Library/PostgreSQL/12/data
